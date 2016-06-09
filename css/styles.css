@@ -1,0 +1,27 @@
+body {
+	background-color: #20b2aa;
+}
+
+h1 {
+	color: gold;
+	font-family: webdings;
+
+}
+
+h2 {
+	font-family: georgia;
+}
+
+.p1 {
+	color: black;
+	font-family: georgia;
+	font-size: 18px;
+}
+
+.jumbotron {
+	background-image: url("../images/World.jpg");
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+}
